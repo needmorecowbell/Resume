@@ -580,7 +580,7 @@
 }
 
 % Define an environment for cvsubentry
-\newenvironment{cvsubentries}{%
+\newenvironment{cvsubentries}{
   \begin{center}
 }{%
   \end{center}
