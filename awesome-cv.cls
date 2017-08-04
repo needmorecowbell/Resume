@@ -183,8 +183,8 @@
 \newcommand*{\bodyfont}{\sourcesanspro}
 \newcommand*{\bodyfontlight}{\sourcesansprolight}
 
-%set all bold text to emerald color
-\newcommand\keyword[1]{\textcolor{awesome-emerald}{\textbf{#1}}}
+%set all bold text to darknight color
+\newcommand\keyword[1]{\textcolor{awesome-darknight}{\textbf{#1}}}
 %-------------------------------------------------------------------------------
 %                Configuration for styles
 %-------------------------------------------------------------------------------
