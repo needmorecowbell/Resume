@@ -21,33 +21,7 @@
 %      \end{cvitems}
 %    }
 %
-  %---------------------------------------------------------
-  \cventry
-    {Independent Developer} % SubTitle
-    {Hamburglar} % Project Title
-    {June 2018} % Date
-    {Sterling, Virginia} % location
-    {
-      \begin{cvitems} % Description(s) of experience/contributions/knowledge
-      \item {Recursive directory scraping tool, driven by \keyword{regex filters} to store valuable information}
-      \item { Ongoing open source project with more than 130 stars on github}
-      \end{cvitems}
-    }
-%--------------------------------------------------------
-  \cventry
-    {Independent Developer} % SubTitle
-    {Pastebin Sniffer} % Project Title
-    {June 2018} % Date
-    {Sterling, Virginia} % location
-    {
-      \begin{cvitems} % Description(s) of experience/contributions/knowledge
-      \item {Dynamic \keyword{OSINT} tool made to find major ip and account dumps. Scans ip addresses for identification.}
-      \item {Stores all scraped information in a \keyword{mysql} database for later visualization and analysis.}
-      \item { Ongoing open source project with more than 150 stars on github}
-      \end{cvitems}
-    }
-
-%--------------------------------------------------------
+%---------------------------------------------------------
   \cventry
     {Front End Developer} % SubTitle
     {AlexaMD} % Project Title
@@ -59,7 +33,44 @@
         \item {Awarded the \keyword{Best Medical Hack} at HackDartmouth}
       \end{cvitems}
     }
-
+%---------------------------------------------------------
+  \cventry
+    {Marketer \& Prototyper} % SubTitle
+    {IST Startup Competition: Project Sifr} % Project Title
+    {Mar. 2016 - Apr. 2016} % Date
+    {Pennsylvania State University} % location
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+      \item {Web App with dynamic read-as-you-go illustrations to facilitate \keyword{STEM} learning in elementary schools }
+        \item { Placed as \keyword{finalists} in a team of 3}
+        \item {\keyword{Prototyped} and \keyword{marketed} the project in a highly competitive atmosphere of 20+ teams}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+%  \cventry
+%    {Algorithm Cruncher} % SubTitle
+%    {CodePSU}
+%    {Feb. 2016} % Date
+%    {Pennsylvania State University} % location
+%    {
+%      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+%        \item {Programmed \keyword{efficient algorithms} in a timed environment at CodePSU among over 150 students.}
+%        \item {Placed in the \keyword{Top 5}}
+%      \end{cvitems}
+%    }
+%
+%---------------------------------------------------------
+  \cventry
+    {Backend Developer} % SubTitle
+    {An A-MUSE-ing Game} % Project Title
+    {Apr. 2016} % Date
+    {Pennsylvania State University} % location
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item {2.5D Virtual Reality immersive fighting game designed in \keyword{Unity}}
+	\item {Developed features to react to a user's EEG brain and muscle activity using \keyword{Lua} and \keyword{Objective-C}}
+      \end{cvitems}
+    }
 
 %---------------------------------------------------------
   \cventry
@@ -70,6 +81,7 @@
     {
       \begin{cvitems} % Description(s) of experience/contributions/knowledge
         \item {Community based web app that scrapes Penn State’s crime log database using Python's \keyword{BeautifulSoup} library}
+        \item {Created and managed a team of 5 developers and designers}
 	\item {Developed front end in \keyword{Bootstrap}, with visualized geolocation data using a \keyword{RESTful API} and \keyword{P5.js}}
       \end{cvitems}
     }
